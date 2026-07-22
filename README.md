@@ -4,6 +4,8 @@
 
 **https://t.me/Modul_MSTP_bot**
 
+**@Modul_MSTP_bot**
+
 **📌 Резюме проекта**
 
 
